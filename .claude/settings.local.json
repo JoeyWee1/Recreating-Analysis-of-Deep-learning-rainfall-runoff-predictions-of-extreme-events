@@ -3,7 +3,8 @@
     "allow": [
       "Bash(\"venvFrame/Scripts/pip\" install *)",
       "Bash(venvFrame/Scripts/python -c ' *)",
-      "Bash(venvFrameScriptspython.exe -c ' *)"
+      "Bash(venvFrameScriptspython.exe -c ' *)",
+      "WebSearch"
     ]
   }
 }
